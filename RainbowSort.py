@@ -1,3 +1,4 @@
+#http://www.jiuzhang.com/qa/4289/
 def rainbowSort(self, left, right, colorFrom, colorTo, colors):
         if colorFrom == colorTo:
             return
