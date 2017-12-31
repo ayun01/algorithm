@@ -5,7 +5,7 @@ class Solution:
     """
     def findMin(self, nums):
         if nums is None or len(nums) <= 0:
-            return None
+            return -1
         
         l,r = 0, len(nums) - 1
         
