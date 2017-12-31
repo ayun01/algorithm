@@ -17,4 +17,3 @@ algorithm
 6. Bfs template
 7. Tree Travel
 
-![rotated sorted array](https://user-images.githubusercontent.com/33712067/34464620-346b3f1c-ee3c-11e7-8a65-8e22aba11c18.PNG)
